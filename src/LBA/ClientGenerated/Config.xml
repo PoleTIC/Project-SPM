@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Manifests>
+    <Manifest>Microsoft.LightSwitch.Base.Client.Manifest.xml</Manifest>
+    <Manifest>Microsoft.LightSwitch.Client.Internal.Manifest.xml</Manifest>
+  </Manifests>
+  <SubsystemPackages>
+    <SubsystemPackage>ModelLoader</SubsystemPackage>
+    <SubsystemPackage>RuntimeExtensionLoader</SubsystemPackage>
+    <SubsystemPackage>PresentationRuntimeLoader</SubsystemPackage>
+    <SubsystemPackage>ReportingLoader</SubsystemPackage>
+    <SubsystemPackage>RulesLoader</SubsystemPackage>
+    <SubsystemPackage>RuntimeServicesLoader</SubsystemPackage>
+    <SubsystemPackage>RuntimeShellLoader</SubsystemPackage>
+    <SubsystemPackage>ThemingRuntimeLoader</SubsystemPackage>
+    <SubsystemPackage>UtilitiesLoader</SubsystemPackage>
+    <SubsystemPackage>BaseServicesLoader</SubsystemPackage>
+    <SubsystemPackage>DiagnosticsLoader</SubsystemPackage>
+    <SubsystemPackage>RuntimeUserCodeLoader</SubsystemPackage>
+  </SubsystemPackages>
+  <UserCodeAssemblies></UserCodeAssemblies>
+  <ExtensionAssemblies>
+    <ExtensionAssembly>Microsoft.LightSwitch.Extensions.Client, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31BF3856AD364E35</ExtensionAssembly>
+    <ExtensionAssembly>ImageButtonExtension.Common, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null</ExtensionAssembly>
+    <ExtensionAssembly>FirstFloor.Documents, Version=2.0.0.0, Culture=neutral, PublicKeyToken=5AA7AB6A0E3EC07B</ExtensionAssembly>
+    <ExtensionAssembly>FirstFloor.Documents.Controls, Version=2.0.0.0, Culture=neutral, PublicKeyToken=5AA7AB6A0E3EC07B</ExtensionAssembly>
+    <ExtensionAssembly>System.Windows.Interactivity, Version=4.0.5.0, Culture=neutral, PublicKeyToken=31BF3856AD364E35</ExtensionAssembly>
+    <ExtensionAssembly>FirstFloor.Documents.Pdf, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null</ExtensionAssembly>
+    <ExtensionAssembly>ZLib, Version=1.9.1.9000, Culture=neutral, PublicKeyToken=5AA7AB6A0E3EC07B</ExtensionAssembly>
+    <ExtensionAssembly>DocumentToolkit.Client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</ExtensionAssembly>
+    <ExtensionAssembly>DocumentToolkit.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</ExtensionAssembly>
+    <ExtensionAssembly>FirstFloor.Documents.IO, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null</ExtensionAssembly>
+    <ExtensionAssembly>FirstFloor.Documents.IO.LibTiff, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null</ExtensionAssembly>
+    <ExtensionAssembly>ExcelImporter.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</ExtensionAssembly>
+    <ExtensionAssembly>Microsoft.LightSwitch.SdkProxy, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31BF3856AD364E35</ExtensionAssembly>
+    <ExtensionAssembly>ImageButtonExtension.Client, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null</ExtensionAssembly>
+    <ExtensionAssembly>DocumentToolkit.Client.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</ExtensionAssembly>
+    <ExtensionAssembly>ExcelImporter.Client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</ExtensionAssembly>
+    <ExtensionAssembly>DevExpress.XtraReports.v11.1.LightSwitch.Common, Version=11.1.8.5, Culture=neutral, PublicKeyToken=B88D1754D700E49A</ExtensionAssembly>
+    <ExtensionAssembly>DevExpress.XtraReports.v11.1.LightSwitch.Client, Version=11.1.8.5, Culture=neutral, PublicKeyToken=B88D1754D700E49A</ExtensionAssembly>
+  </ExtensionAssemblies>
+</Configuration>
